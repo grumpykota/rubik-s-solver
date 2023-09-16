@@ -1,0 +1,4 @@
+﻿  App.cpp
+C:\Users\KOTA\source\repos\3170142\rubik\App.cpp(31,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\KOTA\source\repos\3170142\rubik\App.cpp(281,21): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+  rubik.vcxproj -> C:\Users\KOTA\source\repos\3170142\Debug\rubik.exe
